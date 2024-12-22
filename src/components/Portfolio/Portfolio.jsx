@@ -146,7 +146,7 @@ const Portfolio = () => {
 
         <div className='portfolio_10_details px-3 flex gap-3'>
           <a href='https://github.com/Fahyvor/' className='bg-white px-3 drop-shadow-lg'>Github</a>
-          <a href='https://t.me/sushimonsta_bot' className=''>Check Out The Site</a>
+          <a href='https://t.me/sushimonsta_bot' className=''>Check Out The Bot</a>
         </div>
       </div>
      </div>
